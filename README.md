@@ -1,7 +1,7 @@
 ![logo](https://camo.githubusercontent.com/2a52234dd72571aae8dc2beb17d1a26f9dd5ca5afe9a88e5737731c14af0cc16/68747470733a2f2f7777772e7072616d756b686469676974616c2e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f30372f4e65772d504e432d416e696d617465642d42616e6e6572732e676966)
 <h1 align="center">Hi 👋, I'm SOUVIK DEY</h1>
 <h3 align="center">I am a student of Computer Science & Engineering. I am a coding enthusiast.</h3>
-<img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0XlWQdSfXoVTBQGNvlnf060Nkxdp47TIMAQ&usqp=CAU">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/40719899/205479251-ffba5354-583f-491b-a1ef-ce919083e2b1.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=souvik987&label=Profile%20views&color=0e75b6&style=flat" alt="souvik987" /> </p>
 
 - 🌱 I’m currently learning **Web Developer. DSA with JAVA**
